@@ -62,3 +62,4 @@ G10 P1 X0 Y0 Z0                           ; set tool 1 axis offsets
 G10 P1 R0 S0                              ; set initial tool 1 active and standby temperatures to 0C
 
 ; Custom settings are not defined
+
