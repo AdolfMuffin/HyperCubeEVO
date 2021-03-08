@@ -7,3 +7,4 @@ Diffirences from the original HEVO project:
 <li>10mm belts on every axis'</li>
 <li>2*SFU1204 driven by single motor on Z-axis</li>
 </ol>
+<p>Also, here I post the firmware configs.</p>
